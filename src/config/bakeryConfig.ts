@@ -44,9 +44,8 @@ export const bakeryConfig = {
   mapLocation: {
     lat: 12.9716,
     lng: 77.5946,
-    embedUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.8515245109143!2d77.59369931482!3d12.971598990862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU4JzE3LjgiTiA3N8KwMzUnNDIuNyJF!5e0!3m2!1sen!2sin!4v1234567890'
-  },
-  
+    embedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d964798.5438672345!2d82.3541996!3d19.162666400000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3b435853bcf149%3A0xd04db1d0513a0aa4!2sSLV%20Bengaluru%20Iyyanagar%20Bakery%20Rayagada!5e0!3m2!1sen!2sin!4v1762105122697!5m2!1sen!2sin"
+},
   // Pricing Configuration
   pricing: {
     currency: '₹',
