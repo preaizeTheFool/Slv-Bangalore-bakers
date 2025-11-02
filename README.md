@@ -1,73 +1,46 @@
-# Welcome to your Lovable project
+# 🧁 Bakers App
 
-## Project info
+A modern, cross-platform application designed for bakeries and customers to manage orders, showcase products, and streamline operations.  
+Built with **React**, **Vite**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui** for speed, performance, and a delightful user experience.
 
-**URL**: https://lovable.dev/projects/31d37529-c610-4523-95fd-115aecad89d3
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- 🛒 **Product Showcase** – Display bakery items with images, pricing, and descriptions  
+- 📦 **Order Management** – Add, update, and track orders in real-time  
+- 💬 **Customer Interaction** – Integrated forms and feedback options  
+- 📱 **Cross-Platform Ready** – Runs smoothly on web and mobile browsers  
+- ⚡ **Fast & Lightweight** – Powered by Vite for instant builds and reloads  
+- 🎨 **Beautiful UI** – Styled with Tailwind CSS and shadcn/ui components  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/31d37529-c610-4523-95fd-115aecad89d3) and start prompting.
+## 🧰 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+| Technology | Purpose |
+|-------------|----------|
+| **React + TypeScript** | Component-based UI development |
+| **Vite** | Lightning-fast bundler and dev server |
+| **Tailwind CSS** | Utility-first responsive styling |
+| **shadcn/ui** | Accessible, reusable UI components |
+| **Node.js + npm** | Package and dependency management |
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Follow these steps to set up the project locally:
 
-Follow these steps:
+```bash
+# 1. Clone the repository
+git clone https://github.com/preaizeTheFool/Slv-Bangalore-bakers.git
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# 2. Navigate to the project directory
+cd Slv-Bangalore-bakers
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# 3. Install dependencies
+npm install
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Start the development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/31d37529-c610-4523-95fd-115aecad89d3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
