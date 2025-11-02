@@ -1,6 +1,6 @@
 # 🧁 Bakers App
 
-A modern, cross-platform application designed for bakeries and customers to manage orders, showcase products, and streamline operations.  
+A modern, cross-platform bakery management and ordering system designed for both **customers** and **bakers** to manage products, orders, and operations efficiently.  
 Built with **React**, **Vite**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui** for speed, performance, and a delightful user experience.
 
 ---
@@ -10,9 +10,10 @@ Built with **React**, **Vite**, **TypeScript**, **Tailwind CSS**, and **shadcn/u
 - 🛒 **Product Showcase** – Display bakery items with images, pricing, and descriptions  
 - 📦 **Order Management** – Add, update, and track orders in real-time  
 - 💬 **Customer Interaction** – Integrated forms and feedback options  
-- 📱 **Cross-Platform Ready** – Runs smoothly on web and mobile browsers  
+- 📱 **Cross-Platform Support** – Available on the **Web**, **Google Play Store**, and **Apple App Store**  
 - ⚡ **Fast & Lightweight** – Powered by Vite for instant builds and reloads  
-- 🎨 **Beautiful UI** – Styled with Tailwind CSS and shadcn/ui components  
+- 🎨 **Modern UI** – Styled with Tailwind CSS and shadcn/ui components  
+- 🔄 **In Progress** – Actively being developed with new features rolling out  
 
 ---
 
@@ -20,15 +21,15 @@ Built with **React**, **Vite**, **TypeScript**, **Tailwind CSS**, and **shadcn/u
 
 | Technology | Purpose |
 |-------------|----------|
-| **React + TypeScript** | Component-based UI development |
-| **Vite** | Lightning-fast bundler and dev server |
-| **Tailwind CSS** | Utility-first responsive styling |
-| **shadcn/ui** | Accessible, reusable UI components |
-| **Node.js + npm** | Package and dependency management |
+| **React + TypeScript** | Component-based, type-safe frontend |
+| **Vite** | Lightning-fast bundler and dev environment |
+| **Tailwind CSS** | Utility-first styling framework |
+| **shadcn/ui** | Modern, reusable UI components |
+| **Node.js + npm** | Build tools and dependency management |
 
 ---
 
-## 🛠️ Getting Started
+## 🛠️ Getting Started (For Developers)
 
 Follow these steps to set up the project locally:
 
