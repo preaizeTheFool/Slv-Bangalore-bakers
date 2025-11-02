@@ -18,11 +18,11 @@ const Location = () => {
                 Address
               </CardTitle>
             </CardHeader>
-            <CardContent>
+             <CardContent>
               <p className="text-lg">SLV Bakers</p>
-              <p className="text-muted-foreground">123 Baker Street</p>
-              <p className="text-muted-foreground">Mumbai, Maharashtra</p>
-              <p className="text-muted-foreground">India - 400001</p>
+              <p className="text-muted-foreground">Rayagada, Odisha</p>
+              <p className="text-muted-foreground">Main Rd, Rama Krishna Nagar,</p>
+              <p className="text-muted-foreground">India - 765001</p>
             </CardContent>
           </Card>
 
