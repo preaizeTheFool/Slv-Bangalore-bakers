@@ -20,9 +20,9 @@ const Location = () => {
             </CardHeader>
             <CardContent>
               <p className="text-lg">SLV Bakers</p>
-              <p className="text-muted-foreground">Rayagada, Odisha</p>
-              <p className="text-muted-foreground">Main Rd, Rama Krishna Nagar,</p>
-              <p className="text-muted-foreground">India - 765001</p>
+              <p className="text-muted-foreground">123 Baker Street</p>
+              <p className="text-muted-foreground">Mumbai, Maharashtra</p>
+              <p className="text-muted-foreground">India - 400001</p>
             </CardContent>
           </Card>
 
@@ -96,9 +96,8 @@ const Location = () => {
             <div className="text-center p-8">
               <MapPin className="h-16 w-16 mx-auto mb-4 text-primary" />
               <p className="text-lg font-semibold mb-2">Find us on the map</p>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d964798.5438672345!2d82.3541996!3d19.1626664!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3b435853bcf149%3A0xd04db1d0513a0aa4!2sSLV%20Bengaluru%20Iyyanagar%20Bakery%20Rayagada!5e0!3m2!1sen!2sin!4v1762165945185!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               <p className="text-muted-foreground">
-                Visit us at Main Rd, Rama Krishna Nagar, Rayagada, Odisha
+                Visit us at 123 Baker Street, Mumbai
               </p>
             </div>
           </div>
