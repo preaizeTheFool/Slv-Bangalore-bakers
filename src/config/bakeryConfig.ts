@@ -12,11 +12,11 @@ export const bakeryConfig = {
   
   // Address
   address: {
-    street: '123 Bakery Street',
-    area: 'MG Road',
-    city: 'Bangalore',
-    state: 'Karnataka',
-    pincode: '560001',
+    street: 'Rama Krishna Nagar',
+    area: 'Main Rd',
+    city: 'Rayagada,',
+    state: 'Odisha',
+    pincode: '765001',
     country: 'India'
   },
   
